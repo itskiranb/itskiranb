@@ -45,7 +45,9 @@
   <a href="https://app.daily.dev/kirankumarb" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Daily.dev-white?style=for-the-badge&logo=daily.dev">
   </a>
-   
+   <a target="_blank" href="info.kirankumarb@gmail.com">
+     <img alt="Static Badge" src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail">
+   </a>
 </p>
 
 ---
