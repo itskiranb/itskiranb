@@ -46,12 +46,8 @@
   </a>
 </p>
 
----
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat) 
-
-_"Code is like humor. When you have to explain it, it’s bad." – Cory House_
-
----
+</p>
 
 **Last Updated:** 2025-02-15 10:37:33 (UTC)
