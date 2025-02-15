@@ -1,6 +1,4 @@
----
 
-## Hello  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Kiran;Full+Stack+Developer;">
@@ -8,7 +6,7 @@
 
 ---
 
-## 🔧 Skills & Expertise
+## 🔧 Skills 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -47,9 +45,9 @@
 </p>
 
 ---
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat) 
-
+</p>
 
 ---
 **Last Updated:** 2025-02-15 10:37:33 (UTC)
