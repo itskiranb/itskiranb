@@ -46,8 +46,10 @@
   </a>
 </p>
 
-<p align="center">
-![](https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat) 
-</p>
+---
 
+![](https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat) 
+
+
+---
 **Last Updated:** 2025-02-15 10:37:33 (UTC)
