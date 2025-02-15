@@ -36,13 +36,13 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-   <a href="www.linkedin.com/in/kirankumar-bora">
+   <a href="www.linkedin.com/in/kirankumar-bora" target="_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="www.linkedin.com/in/kirankumar-bora">
+  <a href="www.linkedin.com/in/kirankumar-bora" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github">
   </a>
-  <a href="https://app.daily.dev/kirankumarb">
+  <a href="https://app.daily.dev/kirankumarb" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Daily.dev-white?style=for-the-badge&logo=daily.dev">
   </a>
    
