@@ -3,7 +3,7 @@
 ## Hello  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Kiran;Full+Stack+Developer+%7C+Java+%26+Angular+Enthusiast;Designing;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Kiran;Full+Stack+Developer;">
 </p>
 
 ---
