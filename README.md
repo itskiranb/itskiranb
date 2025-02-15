@@ -46,7 +46,8 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat) 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itskiranb&color=blue&style=flat"/>
+</p>
 
 ---
