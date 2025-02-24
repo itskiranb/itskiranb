@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Kiran;Full+Stack+Developer;">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nova+Square&pause=500&color=60FF74&center=true&vCenter=true&width=435&lines=Hey!+I'm+Kiran;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ---
 
